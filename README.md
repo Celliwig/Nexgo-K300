@@ -78,4 +78,4 @@ The Quectel EC25 module 'pin' USB_BOOT is connected to another test point. Tied 
 
 ```https://github.com/openpst/sahara.git```
 
-To reflash a device a small sliver of code needs to be downloaded to the SOC first to handle the actual flash writes (and possibly other functions), and if the SOC has encryption enabled then this to must be encrypted. :( No luck so far finding one that works.
+To reflash a device a some code needs to be downloaded to the SOC first to handle the actual flash writes (and possibly other functions), and if the SOC has encryption enabled then this to must be encrypted. :( No luck so far finding one that works.
